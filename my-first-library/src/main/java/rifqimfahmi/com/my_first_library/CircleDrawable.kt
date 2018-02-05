@@ -1,4 +1,4 @@
-package rifqimfahmi.com.myfirstlibrary
+package rifqimfahmi.com.my_first_library
 
 import android.content.Context
 import android.graphics.Canvas

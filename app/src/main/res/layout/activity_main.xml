@@ -6,10 +6,9 @@
     android:layout_height="match_parent"
     tools:context="rifqimfahmi.com.myfirstlibrary.MainActivity">
 
-    <rifqimfahmi.com.myfirstlibrary.CircleDrawable
+    <rifqimfahmi.com.my_first_library.CircleDrawable
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
